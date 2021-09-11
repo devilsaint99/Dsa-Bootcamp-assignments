@@ -30,9 +30,5 @@ public class Prime {
 		return check;
 		
 	}
-		
-		
-	
-	
 
 }
